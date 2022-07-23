@@ -1,0 +1,24 @@
+.navbar {
+    display: grid;
+    min-height: 3rem;
+    grid-auto-flow: column;
+    color: rgb(243, 238, 232);
+    font-family: Raleway, sans-serif;
+    position: fixed;
+    gap: 1.5rem;
+    background: rgb(51, 51, 51);
+    width: 100%;
+}
+
+a {
+    display: flex;
+    list-style-type: none;
+    font-weight: 700;
+    color: rgb(243, 238, 232);
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
