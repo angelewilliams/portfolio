@@ -18,4 +18,5 @@ Additional
     - cards with image, potential gif on hover, basic description, tech stack, key contributions 
     - learnings? 
     - link to live deployement and git repository 
-
+- about me section
+- non techincal work? potentially...
